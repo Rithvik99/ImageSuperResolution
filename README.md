@@ -1,6 +1,6 @@
 # DIP Project
 
-**Description:** Tried improving already existing WaveMixSR architecture :
+**Description:** Tried improving already existing WaveMixSR architecture by -
 1) Testing out different wavelet families
 2) Using Different Pretrained Backbones
 3) Using Adversarial Training
