@@ -7,5 +7,5 @@
 
 - **[Paper Link](https://arxiv.org/pdf/2307.00430):** WAVEMIXSR: A RESOURCE-EFFICIENT NEURAL NETWORK FOR IMAGE SUPER-RESOLUTION
 - **[Dataset Link](https://www.kaggle.com/datasets/olgabelitskaya/flower-color-images?select=flowers):** Flower Color Images Dataset
-- **[Pretrained VGGNet11](https://pytorch.org/vision/main/models/generated/torchvision.models.vgg11.html):** Pretrained VGGNet11
-- **[Pretrained ResNet18](https://pytorch.org/hub/pytorch_vision_resnet/):** Pretrained ResNet18
+- **[Pretrained VGGNet11](https://download.pytorch.org/models/vgg11-8a719046.pth):** Pretrained VGGNet11
+- **[Pretrained ResNet18](https://download.pytorch.org/models/resnet18-f37072fd.pth):** Pretrained ResNet18
